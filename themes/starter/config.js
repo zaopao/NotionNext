@@ -10,17 +10,17 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '开源且免费的基于 Notion 笔记的网站构建工具', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+  STARTER_HERO_TITLE_1: '致力于制作0添加剂0防腐剂0味精0香辛料的家常美食', // 英雄区文字
+  STARTER_HERO_TITLE_2: '古法手作豆腐鲜肉大馄饨', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+    'https://99.sc.cn/n9v54q3dv418/pc/goods-204357.html', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '关注我的博客', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://www.moucao.com/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/01.jpg', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
@@ -29,33 +29,33 @@ const CONFIG = {
   STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
   STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
-  // 特性区块
+ // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: '亮点', // 特性
+  STARTER_FEATURE_TEXT_1: '手作馄饨的亮点', // 特性
   STARTER_FEATURE_TEXT_2:
-    'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
+    '纯手工制作，零添加剂，手工剁馅。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '柴火灶豆腐', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '精选优质大豆，自制柴火灶盐卤老豆腐', // 特性1
+  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '猪前腿肉', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '优选猪前腿肉，肉质细腻，口感上佳', // 特性2
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    '', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '定制馄饨皮', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '定制馄饨皮，皮薄筋道，老少咸宜', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '手工剁馅', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '纯手工剁馅，摒弃绞肉机的泥浆感', // 特性4
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
