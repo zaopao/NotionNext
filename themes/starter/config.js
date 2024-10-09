@@ -59,7 +59,7 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的馄饨摊解决方案',
+  STARTER_ABOUT_TITLE: '一套实用的馄饨摊经营方案',
   STARTER_ABOUT_TEXT:
     '馄饨摊的愿景是帮助初入摆摊事业的摊主，最低成本、最快速地搭建自己的生意，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 强大的馄饨摊经营方案，广受好评的馄饨配方',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
