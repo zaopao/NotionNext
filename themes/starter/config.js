@@ -15,9 +15,9 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://99.sc.cn/n9v54q3dv418/pc/goods-204357.html', // 英雄区按钮
+    'https://www.chitoutou.com/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '关注我的博客', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://www.moucao.com/', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://www.chitoutou.com/', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/01.jpg', // 产品预览图 ，默认读取public目录下图片
@@ -350,8 +350,8 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '浙ICP备2024096773号-2',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: 'https://beian.miit.gov.cn/',
 
   // 404页面的提示语
   STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
